@@ -1,0 +1,7 @@
+#mkdir -p $pkg_svc_data_path/htdocs
+#cp $pkg_svc_config_path/index.html $pkg_svc_data_path/htdocs
+
+#mkdir -p {{pkg.svc_data_path}}/htdocs
+#cp {{pkg.svc_config_path}}/index.html {{pkg.svc_data_path}}/htdocs
+
+
