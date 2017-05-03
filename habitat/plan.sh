@@ -17,6 +17,7 @@ do_begin() {
 # - absolute minimum apache.conf file
 # put into config, next to index.html
 # Look how to make Apache log to stdout
+#    https://serverfault.com/questions/711168/writing-apache2-logs-to-stdout-stderr
 
 # The default implementation is that the software specified in $pkg_source is
 # downloaded, checksum-verified, and placed in $HAB_CACHE_SRC_PATH/$pkgfilename,
